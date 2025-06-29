@@ -1,4 +1,3 @@
 # new-demo
-This is GIT repositort.
-
+This is GIT repository.
 Author : Aditya C
