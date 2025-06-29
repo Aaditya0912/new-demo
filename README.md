@@ -1,2 +1,4 @@
 # new-demo
-This is GIT repositiry
+This is GIT repositort.
+
+Author : Aditya C
